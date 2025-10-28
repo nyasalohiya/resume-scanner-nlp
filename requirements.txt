@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+python-docx
+PyMuPDF
+nltk
+// if by any chance the requirements is not fully installed or not working you can run this line 
+//python -c "import nltk; nltk.download('stopwords'); nltk.download('wordnet'); nltk.download('averaged_perceptron_tagger')"

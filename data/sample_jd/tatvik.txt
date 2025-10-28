@@ -1,0 +1,46 @@
+SKIPS UNIVERSITY
+
+Placements – Batch 2024-26
+
+Company Name: Tatvic Digital Analytics
+Location: Ahmedabad
+Mode: On-Site
+Area of Specialisation: MSc-IT – Data Science + ML
+Profile (Tech Stacks): Python, SQL, ML libraries, Data Pipelines, BigQuery
+
+Designation: Data Scientist Intern
+
+Roles & Responsibilities:
+
+Develop and test machine learning models.
+
+Work with data engineers to prepare and clean datasets.
+
+Perform analysis using statistical and ML techniques.
+
+Deploy models and monitor their performance.
+
+Support business use cases with predictive analytics.
+
+Eligibility: Minimum 65% aggregate across academics in MSc-IT.
+
+No. of Openings: Multiple
+Service Agreement / Bond: No
+Bond Duration: N/A
+Bond Clause: N/A
+
+Selection Process:
+
+CV Shortlisting
+
+Aptitude Test
+
+Technical Round
+
+HOD Round
+
+HR Round
+
+Internship Duration (if any): 6 Months
+Stipend in Internship: ₹10,000 per month
+Full-Time CTC Post Internship: ₹6 LPA – ₹10 LPA
